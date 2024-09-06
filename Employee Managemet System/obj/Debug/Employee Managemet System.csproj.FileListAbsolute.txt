@@ -1,0 +1,7 @@
+C:\Users\Aniket\source\repos\Employee Managemet System\Employee Managemet System\bin\Debug\Employee Managemet System.exe.config
+C:\Users\Aniket\source\repos\Employee Managemet System\Employee Managemet System\bin\Debug\Employee Managemet System.exe
+C:\Users\Aniket\source\repos\Employee Managemet System\Employee Managemet System\bin\Debug\Employee Managemet System.pdb
+C:\Users\Aniket\source\repos\Employee Managemet System\Employee Managemet System\obj\Debug\Employee Managemet System.csproj.AssemblyReference.cache
+C:\Users\Aniket\source\repos\Employee Managemet System\Employee Managemet System\obj\Debug\Employee Managemet System.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\source\repos\Employee Managemet System\Employee Managemet System\obj\Debug\Employee Managemet System.exe
+C:\Users\Aniket\source\repos\Employee Managemet System\Employee Managemet System\obj\Debug\Employee Managemet System.pdb
